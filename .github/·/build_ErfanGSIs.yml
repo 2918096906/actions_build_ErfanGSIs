@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL:http://fs.oppo.com/3/oppowww/androidrom/pclm10/PCLM10_11_OTA_0120_all_Kstg2TogR7P7.ozip
-  ROM_NAME:ColorOS
+  ROM_URL:http://bigota.d.miui.com/9.8.22/miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
+  ROM_NAME:MIUI
   TZ: Asia/Shanghai
 
 jobs:
